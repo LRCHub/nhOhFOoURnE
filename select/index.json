@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "三原色",
+  "base_artist": "YOASOBI",
+  "createdAt": "2025-12-02T11:37:48.345496Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/01_三原色_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_三原色_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "PELICAN FANCLUB",
+      "has_synced": true,
+      "path": "select/03_三原色_PELICAN_FANCLUB.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "PELICAN FANCLUB",
+      "has_synced": true,
+      "path": "select/04_三原色_PELICAN_FANCLUB.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/05_三原色_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/06_三原色_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/07_三原色_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "三原色 - Sangenshoku",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/08_三原色_-_Sangenshoku_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/09_三原色_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "Ayase / YOASOBI",
+      "has_synced": true,
+      "path": "select/10_三原色_Ayase___YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PELICAN FANCLUB 『三原色』Music Video",
+      "artist": "PELICAN FANCLUB",
+      "has_synced": true,
+      "path": "select/11_PELICAN_FANCLUB_『三原色』Music_Video_PELICAN_FANCLUB.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "ELICAN FANCLUB",
+      "has_synced": true,
+      "path": "select/12_三原色_ELICAN_FANCLUB.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "三原色 (360 Reality Audio)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/13_三原色_(360_Reality_Audio)_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/14_三原色_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三原色",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_三原色_YOASOBI.txt"
+    }
+  ]
+}
